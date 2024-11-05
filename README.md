@@ -6,7 +6,7 @@ Ce dépot regroupe différents travaux académiques réalisés dans le domaine d
 Ces travaux pratiques(TP ou laboratoires) ont été réalisés dans le cadre du cours **"Audio, Acoustique et Voix"** (4ème année, 2023-2024).L'objectif était de traiter des signaux de la parole. Ils ont été réalisés sur jupyter notebook.
 
 - [TP2 - Calcul et analyse de la fondamentale](/Notebooks-Jupyter/TP2_Audio_Acoustique_KD__24_05_2024.ipynb)
-- [TP5 - Analyse cepstrale](Notebooks-Jupyter/notebook2.ipynb)
+- [TP5 - Analyse cepstrale](Notebook-Jupyter/notebook2.ipynb)
 
 ---
 
@@ -14,7 +14,7 @@ Ces travaux pratiques(TP ou laboratoires) ont été réalisés dans le cadre du 
 
 Ces travaux ont été réalisés dans le cadre du cours **"Traitement d'Image"** (4ème année, 2023-2024). Veuillez noter que ces travaux ne faisaient pas l'objet d'une évaluation formelle.
 
-- [TP6 - Transformée de Fourier 2D](Notebooks-Jupyter/notebook1.ipynb)
+- [TP6 - Transformée de Fourier 2D](Notebook-Jupyter/notebook1.ipynb)
 - [TP5 - Filtrage non-linéaire](/Users/khadidja/Documents/GitHub/Travaux-info/Notebooks-Jupyter/TP5-BTI.ipynb)
 
 ---
