@@ -1,5 +1,5 @@
 # Travaux-academiques
-Ce dépot regroupe différents travaux académiques réalisés dans le domaine du traitement de signal, image, programmation et informatique.
+Ce dépot regroupe différents travaux académiques réalisés dans le domaine du traitement de signal, image, programmation et informatique au cours de mes deux précédentes années scolaires. 
 
 ## Traitement de Signal (Python)
 
