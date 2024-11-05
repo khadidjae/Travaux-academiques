@@ -6,6 +6,8 @@ Ce dépot regroupe différents travaux académiques réalisés dans le domaine d
 Ces travaux pratiques(TP ou laboratoires) ont été réalisés dans le cadre du cours **"Audio, Acoustique et Voix"** (4ème année, 2023-2024).L'objectif était de traiter des signaux de la parole. Ils ont été réalisés sur jupyter notebook.
 
 - [TP5 - Analyse cepstrale](Traitement-de-signal/TP5_Audio_Acoustique_KD__11_06_2024.ipynb)
+- [TP4 - détection début et fin de mots](Traitement-de-signal/TP4_Audio_acoustique_KD.ipynb)
+- [TP3 - Analyse des formants](Traitement-de-signal/TP3_Audio_Acoustique_KD.ipynb)
 - [TP2 - Calcul et analyse de la fondamentale](Traitement-de-signal/TP2_Audio_Acoustique_KD__24_05_2024.ipynb)
 
 ---
@@ -16,6 +18,7 @@ Ces travaux ont été réalisés dans le cadre du cours **" Base de traitement d
 
 - [TP6 - Transformée de Fourier 2D](Base-de-traitement-image/TP6-BTI.ipynb)
 - [TP5 - Filtrage non-linéaire](Base-de-traitement-image/TP5-BTI.ipynb)
+- [TP4 - Convolution et filtrage linéaire](Base-de-traitement-image/TP4-BTI.ipynb)
 
 ---
 
