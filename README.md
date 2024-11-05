@@ -21,7 +21,7 @@ Ces travaux ont été réalisés dans le cadre du cours **" Base de traitement d
 
 ## Programmation en C++
 
-Dans le cadre du cours de **Programmation Orientée Objet en C++** (3ème année, 2022-2024), nous avons développé une interface graphique pour la visualisation de signaux EMG, en utilisant la bibliothèque Qt. Les fichiers ci-dessous contiennent le code source du projet.
+Dans le cadre du cours de **Programmation Orientée Objet en C++** (3ème année, 2022-2024), je devais raliser une interface graphique pour la visualisation de signaux EMG, en utilisant la bibliothèque Qt. Les fichiers ci-dessous contiennent le code source du projet.
 
 - [projet](Programmation-C++) 
 
@@ -29,6 +29,6 @@ Dans le cadre du cours de **Programmation Orientée Objet en C++** (3ème année
 
 ## Réseau Informatique sous Unix
 
-Ce projet, réalisé dans le cadre d'un cours sur les réseaux informatiques, nous a permis d'acquérir les bases nécessaires à l'administration réseau sous Unix. En binôme, nous avons mis en place des serveurs DNS et DHCP pour un réseau d'entreprise fictive. Le document ci-dessous récapitule les étapes d'installation et de configuration des serveurs.
+Ce projet, réalisé dans le cadre d'un cours sur les réseaux informatiques, avait pour but d'acquerir les bases à l'administration réseau sous Unix. En binôme, je devais mettre en place des serveurs DNS et DHCP pour un réseau d'entreprise fictive. Nous devions en plus d'un rapport sur le déroulement du projet, rédiger une notice d'installation pour conclure notre travail.
 
 - [Notice d'installation des serveurs DNS et DHCP](Reseau-Informatique/notice_serveur_DHCP_DNS.pdf)
