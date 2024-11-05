@@ -10,9 +10,9 @@ Ces travaux pratiques(TP ou laboratoires) ont été réalisés dans le cadre du 
 
 ---
 
-## Traitement d'Image (Python)
+## Base de traitement d'Image (Python)
 
-Ces travaux ont été réalisés dans le cadre du cours **"Traitement d'Image"** (4ème année, 2023-2024). Veuillez noter que ces travaux ne faisaient pas l'objet d'une évaluation formelle.
+Ces travaux ont été réalisés dans le cadre du cours **" Base de traitement d'Image"** (4ème année, 2023-2024). Veuillez noter que ces travaux ne faisaient pas l'objet d'une évaluation formelle.
 
 - [TP6 - Transformée de Fourier 2D](Notebook-Jupyter/notebook1.ipynb)
 - [TP5 - Filtrage non-linéaire](/Users/khadidja/Documents/GitHub/Travaux-info/Notebooks-Jupyter/TP5-BTI.ipynb)
