@@ -14,7 +14,7 @@ Ces travaux pratiques(TP ou laboratoires) ont été réalisés dans le cadre du 
 
 Ces travaux ont été réalisés dans le cadre du cours **" Base de traitement d'Image"** (4ème année, 2023-2024). Veuillez noter que ces travaux ne faisaient pas l'objet d'une évaluation formelle.
 
-- [TP6 - Transformée de Fourier 2D](Notebook-Jupyter/notebook1.ipynb)
+- [TP6 - Transformée de Fourier 2D](Base de traitement d'image/TP5-BTI.ipynb)
 - [TP5 - Filtrage non-linéaire](/Users/khadidja/Documents/GitHub/Travaux-info/Notebooks-Jupyter/TP5-BTI.ipynb)
 
 ---
@@ -23,13 +23,7 @@ Ces travaux ont été réalisés dans le cadre du cours **" Base de traitement d
 
 Dans le cadre du cours de **Programmation Orientée Objet en C++** (3ème année, 2022-2024), nous avons développé une interface graphique pour la visualisation de signaux EMG, en utilisant la bibliothèque Qt. Les fichiers ci-dessous contiennent le code source du projet.
 
-- [main.cpp](Programmation-C++/main.cpp)
-- [cfenetre.h](Programmation-C++/cfenetre.h)
-- [cfenetre.cpp](Programmation-C++/cfenetre.cpp)
-- [csousfenetre.h](Programmation-C++/csousfenetre.h)
-- [csousfenetre.cpp](Programmation-C++/csousfenetre.cpp)
-- [ccalculateur.h](Programmation-C++/ccalculateur.h)
-- [ccalculateur.cpp](Programmation-C++/ccalculateur.cpp)
+- [projet](Programmation-C++) 
 
 ---
 
